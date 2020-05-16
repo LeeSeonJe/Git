@@ -42,6 +42,9 @@
 
 <img width="916" alt="20" src="https://user-images.githubusercontent.com/59919620/82110619-c11e1580-977a-11ea-81eb-f9798d7fbcd3.png">
 <img width="916" alt="21" src="https://user-images.githubusercontent.com/59919620/82110620-c1b6ac00-977a-11ea-875f-bed2ce2d6ae0.png">
+
+- Runtimes를 꼭 만든 서버로 잡아줘야한다
+
 <img width="264" alt="22" src="https://user-images.githubusercontent.com/59919620/82110621-c1b6ac00-977a-11ea-82f9-b6ad962b22da.png">
 
 - 옆에 explorer을 보게되면 조금 변화된거를 볼 수 있다. 처음에는 1.6버전으로 되어있는데 1.8로 바뀌었을것
