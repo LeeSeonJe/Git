@@ -14,6 +14,7 @@ log4j.xml
 target/class
 MANIFEST.MF
 target/m2e-wtp/web-resources/META-INF/*
+target/
 
 ### Eclipse ###
 .metadata
