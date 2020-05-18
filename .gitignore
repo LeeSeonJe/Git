@@ -3,12 +3,15 @@
 # Edit at https://www.gitignore.io/?templates=java,eclipse
 
 ### STS ###
+.properties
 .apt_generated
 .classpath
 .factorypath
 .project
 .settings
 .springBeans
+log4j.*
+target/
 
 ### Eclipse ###
 .metadata
