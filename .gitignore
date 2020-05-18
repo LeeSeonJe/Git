@@ -10,8 +10,9 @@
 .project
 .settings
 .springBeans
-log4j.*
-target/
+log4j.xml
+target/class
+MANIFEST.MF
 
 ### Eclipse ###
 .metadata
