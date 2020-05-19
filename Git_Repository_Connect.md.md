@@ -41,6 +41,7 @@
 .project
 .settings
 .springBeans
+target/
 
 ### Eclipse ###
 .metadata
