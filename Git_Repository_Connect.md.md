@@ -41,10 +41,6 @@
 .project
 .settings
 .springBeans
-target/class
-target/m2e-wtp/web-resources/META-INF/MANIFEST.MF
-target/m2e-wtp/web-resources/META-INF/*
-target/
 
 ### Eclipse ###
 .metadata
